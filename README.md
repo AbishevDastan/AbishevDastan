@@ -1,54 +1,29 @@
-# Hi, I'm Dastan 👋
-
-## About Me
+## About me
 
 I'm a Software Developer with a strong interest in the .NET ecosystem and the related technologies.
+You can reach me at:
+- [LinkedIn](https://www.linkedin.com/in/dastan-abishev)
+- [E-mail](mailto:abish.ev@outlook.com)
 
-- 💼 Currently working at LD Lamination LLC as a Full Stack Software Developer (ASP.NET Core Web API, Angular)
-- 🤝 Open for collaboration and interesting projects
-- 📫 You can reach me at abish.ev@outlook.com
-
-## My Skills
-
-Here are some of the technologies and tools I work with:
+## Technologies and tools I have experience of working with:
 
 ### Programming Languages
 - C#
-- TypeScript
+- SQL
 - HTML/CSS
+- TypeScript
 
-### Web Development
-- ASP.NET Core
-- ASP.NET MVC
+### Frameworks
+- ASP.NET Core Web API/MVC
 - Entity Framework Core
-- Web API Development
+- Angular
+- Blazor WebAssembly
 
-### Back-End Development
-- RESTful API Design
-- Database Modeling and Design
-- SQL Databases
-- Dependency Injection
-- Authentication and Authorization (JWT)
+### Databases
+- Microsoft SQL Server
 
-### Front-End Development
-- Web UI Design
-- Frameworks: Angular
-- Bootstrap and CSS Frameworks
-- Client-side Routing
-
-### Cloud and Deployment
-- Azure Services (Azure Web Apps)
-
-### Testing and Quality Assurance
-- Unit Testing (xUnit)
-
-### DevOps and Tools
-- Git and Version Control
-- Visual Studio and Visual Studio Code
-- Azure DevOps
-- Agile and Scrum Methodologies
-
-## Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/dastan-abishev)
-- [Email](mailto:abish.ev@outlook.com)
+### Testing
+- Unit Testing (xUnit, FluentAssertions, FakeItEasy)
+  
+### Version Control
+- Git
