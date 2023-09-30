@@ -4,7 +4,7 @@
 
 I'm a Software Developer with a strong interest in the .NET ecosystem and the related technologies.
 
-- 💼 Currently working at LD Lamination LLC as a Full Stack Software Developer (ASP.NET Core Web API, Angular, Azure)
+- 💼 Currently working at LD Lamination LLC as a Full Stack Software Developer (ASP.NET Core Web API, Angular)
 - 🤝 Open for collaboration and interesting projects
 - 📫 You can reach me at abish.ev@outlook.com
 
