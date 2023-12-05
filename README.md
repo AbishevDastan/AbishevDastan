@@ -7,7 +7,7 @@ You can reach me at:
 
 ## Technologies and tools I have experience of working with:
 
-### Programming Languages
+### Programming, Markup and Stylesheet Languages
 - C#
 - SQL
 - HTML/CSS
@@ -21,9 +21,10 @@ You can reach me at:
 
 ### Databases
 - Microsoft SQL Server
+- PostgreSQL
 
 ### Testing
 - Unit Testing (xUnit, FluentAssertions, FakeItEasy)
   
 ### Version Control
-- Git
+- Git (Github, Azure DevOps)
