@@ -8,18 +8,17 @@ You can reach me at:
 ## Technologies and tools I have experience of working with:
 
 ### Programming, markup and stylesheet languages
-- C#
+- C#, LINQ
 - SQL
 - HTML/CSS
 - TypeScript
 
 ### Frameworks
 - ASP.NET Core Web API/MVC
-- Entity Framework Core
+- Entity Framework (EF) Core
 - Angular
-- Blazor WebAssembly
 
-### Databases
+### Databases (RDBMS)
 - Microsoft SQL Server
 - PostgreSQL
 
@@ -28,3 +27,8 @@ You can reach me at:
   
 ### Version control
 - Git (Github, Azure DevOps)
+
+### Software architecture and design patterns
+- Clean architecture
+- Layered architecture
+- Repository pattern
