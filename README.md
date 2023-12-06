@@ -10,7 +10,7 @@ Feel free to contact me at:
 ### Programming, markup and stylesheet languages
 - C#, LINQ
 - SQL
-- HTML/CSS
+- HTML, CSS
 - TypeScript
 
 ### Frameworks
