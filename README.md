@@ -18,12 +18,12 @@ Feel free to contact me at:
 - Entity Framework (EF) Core
 - Angular
 
-### Databases (RDBMS)
+### Database management (RDBMS)
 - Microsoft SQL Server
 - PostgreSQL
 
 ### Testing
-- Unit Testing (xUnit, FluentAssertions, FakeItEasy)
+- Unit testing (xUnit, FluentAssertions, FakeItEasy)
   
 ### Version control
 - Git (Github, Azure DevOps)
