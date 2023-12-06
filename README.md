@@ -4,6 +4,7 @@ I'm a **software developer** with a strong interest in the .NET ecosystem and re
 Feel free to contact me at:
 - [LinkedIn](https://www.linkedin.com/in/dastan-abishev)
 - [E-mail](mailto:abish.ev@outlook.com)
+- +48 516 149 717
 
 ## Technologies and tools I have experience with:
 
