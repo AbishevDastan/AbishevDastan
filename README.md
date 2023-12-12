@@ -9,7 +9,7 @@ Feel free to contact me at:
 ## Technologies and tools I have experience with:
 
 ### Programming, markup and stylesheet languages
-- C#, LINQ
+- C# + LINQ
 - SQL
 - HTML, CSS
 - TypeScript
