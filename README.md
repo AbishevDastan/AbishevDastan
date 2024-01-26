@@ -15,7 +15,7 @@ Feel free to contact me at:
 - TypeScript
 
 ### Frameworks
-- ASP.NET Core Web API/MVC
+- ASP.NET Core Web API
 - Entity Framework (EF) Core
 - Angular
 
