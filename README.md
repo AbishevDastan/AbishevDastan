@@ -21,15 +21,6 @@ Feel free to contact me at:
 
 ### Database management (RDBMS)
 - Microsoft SQL Server
-- PostgreSQL
 
 ### Testing
-- Unit testing (xUnit, FluentAssertions, FakeItEasy)
-  
-### Version control
-- Git (Github, Azure DevOps)
-
-### Software architecture and design patterns
-- Clean architecture
-- Layered architecture
-- Repository pattern
+- Unit testing (xUnit)
